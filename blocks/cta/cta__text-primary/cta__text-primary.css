@@ -1,0 +1,11 @@
+.cta__text-primary {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: 235px;
+    top: 81px;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 45px;
+    text-align: left;
+}

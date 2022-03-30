@@ -1,0 +1,4 @@
+.menu_place_header {
+  grid-template-columns: auto auto auto auto;
+  gap: 31px;
+}

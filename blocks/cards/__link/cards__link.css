@@ -1,0 +1,8 @@
+.cards__link {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    position: absolute;
+    left: 24px;
+    bottom: 24px;
+}

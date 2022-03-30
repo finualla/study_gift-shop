@@ -1,0 +1,10 @@
+.cta {
+    margin: 137px auto 0 auto;
+    padding: 0;
+    position: relative;
+    display: flex;
+    align-items: center;
+    background-color: #F7941E;
+    height: 240px;
+    width: inherit;
+}

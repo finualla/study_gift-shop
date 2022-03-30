@@ -1,0 +1,78 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/root/root.css);
+
+@import url(../blocks/link/link.css);
+
+@import url(../blocks/header/header.css);
+
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/logo/_place/logo_place_header.css);
+@import url(../blocks/logo/_place/logo_place_footer.css);
+
+@import url(../blocks/menu/menu.css);
+@import url(../blocks/menu/_place/menu_place_header.css);
+@import url(../blocks/menu/_place/menu_place_footer.css);
+@import url(../blocks/menu/__link/menu__link.css);
+@import url(../blocks/menu/__link/_place/menu__link_place_footer.css);
+
+@import url(../blocks/btn/btn.css);
+@import url(../blocks/btn/__text/btn__text.css);
+@import url(../blocks/btn/__text/_color/btn__text_color_black.css);
+@import url(../blocks/btn/__text/_color/btn__text_color_orange.css);
+@import url(../blocks/btn/_color/btn_color_orange.css);
+@import url(../blocks/btn/_color/btn_color_transpar-orange.css);
+@import url(../blocks/btn/_color/btn_color_transpar-black.css);
+@import url(../blocks/btn/_color/btn_color_black.css);
+@import url(../blocks/btn/_place/btn_place_description.css);
+@import url(../blocks/btn/_place/btn_place_menu.css);
+@import url(../blocks/btn/_place/btn_place_cta-primary.css);
+@import url(../blocks/btn/_place/btn_place_cta-secondary.css);
+
+@import url(../blocks/description/description.css);
+
+@import url(../blocks/description-tile/description-tile.css);
+@import url(../blocks/description-tile/__image/description-tile__image.css);
+@import url(../blocks/description-tile/_height/description-tile_height_m.css);
+@import url(../blocks/description-tile/_height/description-tile_height_s.css);
+@import url(../blocks/description-tile/__h1/description-tile__h1.css);
+@import url(../blocks/description-tile/__h2/description-tile__h2.css);
+@import url(../blocks/description-tile/__text/description-tile__text.css);
+@import url(../blocks/description-tile/__text/_place/description-tile__text_place_tile1.css);
+@import url(../blocks/description-tile/__text/_place/description-tile__text_place_tile4.css);
+
+@import url(../blocks/article-cards/article-cards.css);
+
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
+
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__pic/cards__pic.css);
+@import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__link/cards__link.css);
+
+@import url(../blocks/cta/cta.css);
+@import url(../blocks/cta/cta__text-primary/cta__text-primary.css);
+@import url(../blocks/cta/cta__text-secondary/cta__text-secondary.css);
+
+@import url(../blocks/blog/blog.css);
+@import url(../blocks/posts/posts.css);
+@import url(../blocks/post-main/post-main.css);
+@import url(../blocks/post-main/__author/post-main__author.css);
+@import url(../blocks/post-main/__link/post-main__link.css);
+@import url(../blocks/post-main/__pic/post-main__pic.css);
+@import url(../blocks/post-main/__title/post-main__title.css);
+@import url(../blocks/post-secondary/post-secondary.css);
+@import url(../blocks/post-secondary/__title/post-secondary__title.css);
+@import url(../blocks/post-secondary/__link/post-secondary__link.css);
+@import url(../blocks/post-secondary/__text/post-secondary__text.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__line/footer__line.css);
+@import url(../blocks/footer/__icons/footer__icons.css);
+@import url(../blocks/footer/__icon/footer__icon.css);
+@import url(../blocks/footer/__copyrights/footer__copyrights.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+
+/* Анимации */
+@import url(../blocks/roll-logo/roll-logo.css);

@@ -1,0 +1,14 @@
+.link {
+ margin: 0;
+ padding: 0;
+ text-decoration: none;
+ color: black;
+ box-sizing: border-box;
+ text-align: start;
+ transition: color 0.8s ease-in;
+}
+
+.link:hover {
+  color: #F7941E;
+  transition: color 0.2s ease-out;
+}

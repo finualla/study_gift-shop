@@ -1,0 +1,15 @@
+.post-secondary {
+    margin: 0;
+    padding: 48px 48px 50px 48px;
+    width: 570px;
+    box-sizing: border-box;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.post-secondary:hover {
+    box-shadow: 10px 10px 15px -10px rgba(0,0,0,0.1);
+    -webkit-box-shadow: 10px 10px 15px -10px rgba(0,0,0,0.1);
+    -moz-box-shadow: 10px 10px 15px -10px rgba(0,0,0,0.1);
+}
