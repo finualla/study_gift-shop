@@ -4,8 +4,6 @@
     width: 570px;
     box-sizing: border-box;
     position: relative;
-    display: flex;
-    flex-direction: column;
 }
 
 .post-secondary:hover {
